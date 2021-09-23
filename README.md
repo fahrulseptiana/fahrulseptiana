@@ -1,7 +1,8 @@
 ## 🔬 Working on
 
-- **Fazztrack**: as Technical Trainer
-- **Tickitz**: Laravel / ReactJS
+- **Fazztrack**: Technical Trainer
+- **Telkom Design**: Fullstack Developer / Document Engineer
+- **Phalcon Development Series**: [Visit Here](https://blog.fazztrack.com/bagian-1-cara-instalasi-phalcon-4-di-xampp-c380b59cc86d)
 
 ## ⚡️ Tech Stack
 
